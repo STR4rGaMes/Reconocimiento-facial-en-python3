@@ -19,7 +19,7 @@ _Algunas acotaciones antes de clonar el proyecto._ 🚀
 
   _Para la ejecucion del programa._
 
-```
+```python
   $ pip install opencv-python==3.4.2.16
   
   $ pip install pillow
