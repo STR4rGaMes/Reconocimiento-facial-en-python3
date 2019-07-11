@@ -85,7 +85,7 @@ MacBook-Pro-de-User:Proyecto user$ source nombre_entorno_virtual/bin/activate
 
 - Seguido 
 
-![](/proyecto.png)
+![](img_proyect/proyecto.png)
 
   _Para la ejecucion del programa._
 
