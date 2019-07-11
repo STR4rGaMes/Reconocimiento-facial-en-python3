@@ -46,10 +46,11 @@ MacBook-Pro-de-User:Proyecto user$ virtualenv nombre_de_tu_entorno -p python3
 MacBook-Pro-de-User:Proyecto user$ source nombre_entorno_virtual/bin/activate 
 ```
 
-- Crear nuestro entorno virtual👆
+- Asi tendria que estar nuestro entorno virtual👆
   Ejemplo:
   ```
-      env/
+    proyecto/
+      env/ --> Nombre del entorno virtual
         bin/
         include/
         lib/
