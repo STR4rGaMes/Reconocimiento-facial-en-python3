@@ -11,7 +11,7 @@ _Algunas acotaciones antes de clonar el proyecto._ 🚀
 - Se recomienda trabajar en un entorno Virtual. Mas imformacion https://medium.com/@m.monroyc22/configurar-entorno-virtual-python-a860e820aace.
 - Este programa esta compilado en una MacBook Pro (MacOs) no tendria problemas en GNU Linux.
 
-                          **En los requimientos le dejare los repositorios directos.**
+                        **En los requimientos le dejare los repositorios directos.**
 
 
 ## Requerimientos:
@@ -28,8 +28,8 @@ _Algunas acotaciones antes de clonar el proyecto._ 🚀
   $pip install opencv-contrib-python==3.4.2.16
   
 ```
-  _Para crear un entorno virtual con VIRTUALENV. (En mi Caso para MacOS)
-    -Si gustan les deje un link en la parte superior para otros Sistemas Operativos_
+  _Para crear un entorno virtual con VIRTUALENV. (En mi Caso para MacOS)_
+    **Si gustan les deje un link en la parte superior para otros Sistemas Operativos
   
 
   
