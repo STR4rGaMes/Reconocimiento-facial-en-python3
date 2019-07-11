@@ -48,6 +48,52 @@ _Algunas acotaciones antes de clonar el proyecto._ 🚀
   
 ```
 
+## Pasos para ejecutar la aplicacion:
+
+-Crear nuestro entorno virtual 👆.
+-Primero Clonamos el repositorio dentro del virtualenv.
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Si tienen estos errores comunes tambien los tuve yo:
 
