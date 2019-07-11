@@ -33,7 +33,7 @@ _Algunas acotaciones antes de clonar el proyecto._ 🚀
   
     **Si gustan les deje un link en la parte superior para otros Sistemas Operativos
   
-``
+```
 
   $ sudo easy_install pip
   $ pip install virtualenv
@@ -43,12 +43,6 @@ _Algunas acotaciones antes de clonar el proyecto._ 🚀
   // Con este comando se activa el entorno virtual Si desean desactivarlo **deactivate**.
   $ source nombre_entorno_virtual/bin/activate 
   
-
-  
-
-
-
-`
   
 ```
 
