@@ -28,7 +28,9 @@ _Algunas acotaciones antes de clonar el proyecto._ 🚀
   $ pip install opencv-contrib-python==3.4.2.16
   
 ```
-  _Para crear un entorno virtual con VIRTUALENV. (En mi Caso para MacOS). Mas informacion  Mas imformacion https://medium.com/@m.monroyc22/configurar-entorno-virtual-python-a860e820aace._
+  _Para crear un entorno virtual con VIRTUALENV. (En mi Caso para MacOS).
+  
+  Mas imformacion https://medium.com/@m.monroyc22/configurar-entorno-virtual-python-a860e820aace._
   
   
     **Si gustan les deje un link en la parte superior para otros Sistemas Operativos
@@ -36,7 +38,9 @@ _Algunas acotaciones antes de clonar el proyecto._ 🚀
 ```
 
   $ sudo easy_install pip
+  
   $ pip install virtualenv
+  
   // Aqui deben direccionar a la carpeta donde se creara el entorno virtorno virtual. 
   $ virtualenv nombre_de_tu_entorno -p python3
   
