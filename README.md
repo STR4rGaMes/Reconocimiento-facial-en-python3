@@ -29,7 +29,7 @@ _Algunas acotaciones antes de clonar el proyecto._ 🚀
     pip install opencv-contrib-python==3.4.2.16
   
 ```
-  _Para crear un entorno virtual con VIRTUALENV. (En mi Caso para MacOS)._
+  _Para crear un entorno virtual con VIRTUALENV._
   
   Mas imformacion https://medium.com/@m.monroyc22/configurar-entorno-virtual-python-a860e820aace.
   
