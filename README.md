@@ -39,10 +39,10 @@ _Algunas acotaciones antes de clonar el proyecto._ 🚀
   
    pip install virtualenv
   
-  // Aqui deben direccionar a la carpeta donde se creara el entorno virtorno virtual. 
+   #Aqui deben direccionar a la carpeta donde se creara el entorno virtorno virtual. 
     virtualenv nombre_de_tu_entorno -p python3
   
-  // Con este comando se activa el entorno virtual Si desean desactivarlo **deactivate**.
+   #Con este comando se activa el entorno virtual Si desean desactivarlo **deactivate**.
     source nombre_entorno_virtual/bin/activate 
   
   
