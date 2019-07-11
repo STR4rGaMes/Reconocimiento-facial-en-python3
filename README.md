@@ -50,7 +50,16 @@ _Algunas acotaciones antes de clonar el proyecto._ 🚀
 
 ## Pasos para ejecutar la aplicacion:
 
-- Crear nuestro entorno virtual👆.
+- Crear una carpeta donde contendra nuestro entorno virtual y nuestro proyecto.
+```console
+  
+MacBook-Pro-de-User:Desktop user$ mkdir Proyecto
+
+```
+
+
+
+- Crear nuestro entorno virtual👆
   Ejemplo:
   ```
       env/
@@ -60,10 +69,21 @@ _Algunas acotaciones antes de clonar el proyecto._ 🚀
           site-packages/
    ```     
   
-  
-  
-    
 - Clonamos el repositorio dentro del virtualenv.
+
+  ```
+  
+      env/
+        bin/
+        include/
+        lib/
+          site-packages/
+   ```     
+
+
+
+
+
 - Seguido 
 
 ![](../header.png)
