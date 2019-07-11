@@ -17,27 +17,15 @@ _Algunas acotaciones antes de clonar el proyecto._ 🚀
 
 ## Requerimientos:
 
-  _Para la ejecucion del programa._
-
-```python
-    pip install opencv-python==3.4.2.16
-  
-    pip install pillow
-
-    pip install numpy
-  
-    pip install opencv-contrib-python==3.4.2.16
-  
-```
   _Para instalar un entorno virtual con VIRTUALENV._
   
   Mas imformacion https://medium.com/@m.monroyc22/configurar-entorno-virtual-python-a860e820aace.
   
-```python
+```console
 
-   sudo easy_install pip
+    MacBook-Pro-de-User:~ user$sudo easy_install pip
   
-   pip install virtualenv
+    MacBook-Pro-de-User:~ user$ pip install virtualenv
 ```
 
 ## Pasos para ejecutar la aplicacion:
@@ -87,9 +75,18 @@ MacBook-Pro-de-User:Proyecto user$ source nombre_entorno_virtual/bin/activate
 
 ![](../header.png)
 
+  _Para la ejecucion del programa._
 
+```python
+    pip install opencv-python==3.4.2.16
+  
+    pip install pillow
 
-
+    pip install numpy
+  
+    pip install opencv-contrib-python==3.4.2.16
+  
+```
 
 
 
