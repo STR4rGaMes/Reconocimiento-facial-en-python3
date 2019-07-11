@@ -26,7 +26,9 @@ _Aqui los links de descarga de el Editor de Texto preferido, segun su Sistem Ope
 
 _OpenCV: Open Source Computer Vision Library._
 
-* [Atom](https://github.com/STR4rGaMes/opencv/tree/master/data/haarcascades) - some attempts to tune the performance.
+* [Haarcascades](https://github.com/STR4rGaMes/opencv/tree/master/data/haarcascades) - some attempts to tune the performance.
+
+
 ## Requerimientos para el Entorno Virtual:
 
   _Para instalar un entorno virtual._
