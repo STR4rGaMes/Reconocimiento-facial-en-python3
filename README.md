@@ -8,7 +8,7 @@ _En la actualidad la tecnologia representa un constante crecimiento en las diver
 _Algunas acotaciones antes de clonar el proyecto._ 🚀
 
 - Este proyecto esta hecho en python 3.7.3 y opencv 3.x.x.x
-- Se recomienda trabajar en un entorno Virtual. Mas imformacion https://medium.com/@m.monroyc22/configurar-entorno-virtual-python-a860e820aace.
+- Se recomienda trabajar en un entorno Virtual.
 - Este programa esta compilado en una MacBook Pro (MacOs) no tendria problemas en GNU Linux.
 
                         **En los requimientos le dejare los repositorios directos.**
@@ -28,7 +28,7 @@ _Algunas acotaciones antes de clonar el proyecto._ 🚀
   $ pip install opencv-contrib-python==3.4.2.16
   
 ```
-  _Para crear un entorno virtual con VIRTUALENV. (En mi Caso para MacOS)_
+  _Para crear un entorno virtual con VIRTUALENV. (En mi Caso para MacOS). Mas informacion  Mas imformacion https://medium.com/@m.monroyc22/configurar-entorno-virtual-python-a860e820aace._
   
   
     **Si gustan les deje un link en la parte superior para otros Sistemas Operativos
