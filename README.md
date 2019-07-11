@@ -32,9 +32,6 @@ _Algunas acotaciones antes de clonar el proyecto._ 🚀
   
   Mas imformacion https://medium.com/@m.monroyc22/configurar-entorno-virtual-python-a860e820aace.
   
-  
-    **Si gustan les deje un link en la parte superior para otros Sistemas Operativos
-  
 ```
 
   $ sudo easy_install pip
