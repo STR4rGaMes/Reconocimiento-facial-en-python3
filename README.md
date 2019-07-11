@@ -11,7 +11,7 @@ _Algunas acotaciones antes de clonar el proyecto._ 🚀
 - Con haarcascade_frontalface_default.xml
 - Se recomienda trabajar en un entorno Virtual.
 - Este programa esta compilado en MacOs no tendria problemas en GNU Linux, no se compilo en Windows.
-- Se utlizo el VisualCode como editor de texto. (pero se podria utilizar de su preferencia).
+- Se utlizo el herramientas de edicion de texto. (Algunos por aqui 👇 ).
 
                         **En los requimientos le dejare los repositorios directos.**
 
@@ -25,9 +25,9 @@ _Aqui los links de descarga de el Editor de Texto preferido, segun su Sistem Ope
 * [Atom](https://atom.io/) - A hackable text editor for the 21st Century
 
 
-## Requerimientos:
+## Requerimientos para el Entorno Virtual:
 
-  _Para instalar un entorno virtual con VIRTUALENV._
+  _Para instalar un entorno virtual._
   
   Mas imformacion https://medium.com/@m.monroyc22/configurar-entorno-virtual-python-a860e820aace.
   
