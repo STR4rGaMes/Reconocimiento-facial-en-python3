@@ -19,20 +19,38 @@ _Algunas acotaciones antes de clonar el proyecto._ 🚀
   _Para la ejecucion del programa._
 
 ```
-  $pip install opencv-python==3.4.2.16
+  $ pip install opencv-python==3.4.2.16
   
-  $pip install pillow
+  $ pip install pillow
 
-  $pip install numpy
+  $ pip install numpy
   
-  $pip install opencv-contrib-python==3.4.2.16
+  $ pip install opencv-contrib-python==3.4.2.16
   
 ```
   _Para crear un entorno virtual con VIRTUALENV. (En mi Caso para MacOS)_
+  
+  
     **Si gustan les deje un link en la parte superior para otros Sistemas Operativos
+  
+``
+
+  $ sudo easy_install pip
+  $ pip install virtualenv
+  // Aqui deben direccionar a la carpeta donde se creara el entorno virtorno virtual. 
+  $ virtualenv nombre_de_tu_entorno -p python3
+  
+  // Con este comando se activa el entorno virtual Si desean desactivarlo **deactivate**.
+  $ source nombre_entorno_virtual/bin/activate 
   
 
   
+
+
+
+`
+  
+```
 
 
 ## Si tienen estos errores comunes tambien los tuve yo:
