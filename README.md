@@ -10,9 +10,19 @@ _Algunas acotaciones antes de clonar el proyecto._ 🚀
 - Este proyecto esta hecho en python 3.7.3 y opencv 3.x.x.x
 - Con haarcascade_frontalface_default.xml
 - Se recomienda trabajar en un entorno Virtual.
-- Este programa esta compilado en una MacBook Pro (MacOs) no tendria problemas en GNU Linux.
+- Este programa esta compilado en MacOs no tendria problemas en GNU Linux, no se compilo en Windows.
+- Se utlizo el VisualCode como editor de texto. (pero se podria utilizar de su preferencia).
 
                         **En los requimientos le dejare los repositorios directos.**
+
+## Herramientas 🛠️:
+
+
+_Aqui los links de descarga de el Editor de Texto preferido, segun su Sistem Operativo_
+
+* [VisualCode](https://code.visualstudio.com/download) - Free. Built on open source. Runs everywhere.
+* [Brackets](http://brackets.io) -  A modern, open source text editor that understands web design.
+* [Atom](https://atom.io/) - A hackable text editor for the 21st Century
 
 
 ## Requerimientos:
