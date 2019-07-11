@@ -64,19 +64,19 @@ MacBook-Pro-de-User:Proyecto user$ source nombre_entorno_virtual/bin/activate
         bin/
         include/
         lib/
-          site-packages/
+
    ```     
   
 - Clonamos el repositorio dentro del virtualenv.
 
   ```
    proyecto/
-      Recong/
+      op/
+        reconog/
       env/
         bin/
         include/
         lib/
-          site-packages/
    ```     
 
 - Seguido 
