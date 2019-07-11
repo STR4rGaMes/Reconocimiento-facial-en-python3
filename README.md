@@ -3,7 +3,7 @@
 # Reconocimiento-facial-en-Python3-y-OpenCV
 
 
-_En la actualidad la tecnologia representa un constante crecimiento en las diversas áreas de nuestras vidas, prácticamente todo aquello que solíamos hacer mediante un grupo de personas o herramienta física, se esta viendo reemplazada por un software o pieza de hardware cada vez mas potente, que "facilita" de cierta forma las tareas cotidianas._
+> _En la actualidad la tecnologia representa un constante crecimiento en las diversas áreas de nuestras vidas, prácticamente todo aquello que solíamos hacer mediante un grupo de personas o herramienta física, se esta viendo reemplazada por un software o pieza de hardware cada vez mas potente, que "facilita" de cierta forma las tareas cotidianas._
 
 _Algunas acotaciones antes de clonar el proyecto._ 🚀
 
@@ -51,7 +51,10 @@ _Algunas acotaciones antes de clonar el proyecto._ 🚀
 
 ## Si tienen estos errores comunes tambien los tuve yo:
 
-$ error 1
+_error 1
+
+```python
+
 
 (xx) (base) MacBook-Pro-de-User:rec user$ python3 02.py
 Traceback (most recent call last):
@@ -59,19 +62,24 @@ Traceback (most recent call last):
     recognizer = cv2.face.LBPHFaceRecognizer_create()
 AttributeError: module 'cv2.cv2' has no attribute 'face'
 
-solucion 1:
+#solucion 1:
 
 MacBook-Pro-de-User:rec user$ pip install opencv-contrib-python==3.4.2.16
 
+```
+_error2 :
 
-$ error2 :
+```python
+
+
 
 cuando no encuentra el archivo DS_
 
-solucion 2:
+#solucion 2:
 borrar la carpeta o crear otra otra vez, denuevo puede causar conflicto: 
   -Data set y Trainer.
   
+```
   
   
   
