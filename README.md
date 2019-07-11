@@ -18,11 +18,11 @@ _Algunas acotaciones antes de clonar el proyecto._ 🚀
 ## Herramientas 🛠️:
 
 
-_Aqui los links de descarga de el Editor de Texto preferido, segun su Sistem Operativo_
+_Aqui los links de descarga de el Editor de Texto preferido, segun su Sistem Operativo._
 
 * [VisualCode](https://code.visualstudio.com/download) - Free. Built on open source. Runs everywhere.
 * [Brackets](http://brackets.io) -  A modern, open source text editor that understands web design.
-* [Atom](https://atom.io/) - A hackable text editor for the 21st Century
+* [Atom](https://atom.io/) - A hackable text editor for the 21st Century.
 
 
 ## Requerimientos para el Entorno Virtual:
