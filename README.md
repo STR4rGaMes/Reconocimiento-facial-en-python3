@@ -24,7 +24,9 @@ _Aqui los links de descarga de el Editor de Texto preferido, segun su Sistem Ope
 * [Brackets](http://brackets.io) -  A modern, open source text editor that understands web design.
 * [Atom](https://atom.io/) - A hackable text editor for the 21st Century.
 
+_OpenCV: Open Source Computer Vision Library._
 
+* [Atom](https://github.com/STR4rGaMes/opencv/tree/master/data/haarcascades) - some attempts to tune the performance.
 ## Requerimientos para el Entorno Virtual:
 
   _Para instalar un entorno virtual._
