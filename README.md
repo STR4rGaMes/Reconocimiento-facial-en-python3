@@ -168,8 +168,9 @@ borrar la carpeta o crear otra otra vez, denuevo puede causar conflicto:
   
   ## Meta
 
-Carlos Gonzales – [@Carl0sGonzales](https://https://twitter.com/Carl0sGonzales) – gonzalescg597@gmail.com
-UNIVERSIDAD NACIONAL DE MOQUEGUA - (https://www.linkedin.com/school/universidad-nacional-de-moquegua/)  
+- Carlos Gonzales – [@Carl0sGonzales](https://https://twitter.com/Carl0sGonzales) – gonzalescg597@gmail.com
+
+- UNIVERSIDAD NACIONAL DE MOQUEGUA - (https://www.linkedin.com/school/universidad-nacional-de-moquegua/)  
   
 
 
