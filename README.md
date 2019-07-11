@@ -33,7 +33,7 @@ _Aqui los links de descarga de el Editor de Texto preferido, segun su Sistem Ope
   
 ```console
 
-    MacBook-Pro-de-User:~ user$sudo easy_install pip
+    MacBook-Pro-de-User:~ user$ sudo easy_install pip
   
     MacBook-Pro-de-User:~ user$ pip install virtualenv
 ```
@@ -81,7 +81,7 @@ MacBook-Pro-de-User:Proyecto user$ source nombre_entorno_virtual/bin/activate
 
 - Seguido 
 
-![](../header.png)
+![](../proyecto.png)
 
   _Para la ejecucion del programa._
 
