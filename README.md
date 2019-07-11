@@ -52,11 +52,9 @@ _Algunas acotaciones antes de clonar el proyecto._ 🚀
 
 -Crear nuestro entorno virtual 👆.
 -Primero Clonamos el repositorio dentro del virtualenv.
--
+-Seguido 
 
-
-
-
+![](../header.png)
 
 
 
