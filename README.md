@@ -42,18 +42,21 @@ _Algunas acotaciones antes de clonar el proyecto._ 🚀
 
 ## Pasos para ejecutar la aplicacion:
 
-- Crear una carpeta donde contendra nuestro entorno virtual y nuestro proyecto.
+- Aqui tendremos todo el proyecto, tambien las librerias que utilizaremos en nuestro proyecto.
+
 ```console
+    #Crear una carpeta donde contendra nuestro entorno virtual y nuestro proyecto.
 MacBook-Pro-de-User:Desktop user$ mkdir Proyecto
 
+    #Ingresar a la carpeta creada
+MacBook-Pro-de-User:Desktop user$ cd Proyecto
+
     #Aqui deben direccionar a la carpeta donde se creara el entorno virtorno virtual. 
-MacBook-Pro-de-User:Desktop user$ virtualenv nombre_de_tu_entorno -p python3
+MacBook-Pro-de-User:Proyecto user$ virtualenv nombre_de_tu_entorno -p python3
   
     #Con este comando se activa el entorno virtual Si desean desactivarlo **deactivate**.
-MacBook-Pro-de-User:Desktop user$ source nombre_entorno_virtual/bin/activate 
+MacBook-Pro-de-User:Proyecto user$ source nombre_entorno_virtual/bin/activate 
 ```
-
-
 
 - Crear nuestro entorno virtual👆
   Ejemplo:
