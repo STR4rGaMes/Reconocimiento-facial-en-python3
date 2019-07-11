@@ -7,7 +7,7 @@
 
 _Algunas acotaciones antes de clonar el proyecto._ 🚀
 
-- Este proyecto esta hecho en python 3.7.3 y opencv 3.x.x.x
+- Este proyecto esta hecho en python 3.7.3 y opencv 3.4.2.16
 - Con haarcascade_frontalface_default.xml
 - Se recomienda trabajar en un entorno Virtual.
 - Este programa esta compilado en MacOs no tendria problemas en GNU Linux, no se compilo en Windows.
